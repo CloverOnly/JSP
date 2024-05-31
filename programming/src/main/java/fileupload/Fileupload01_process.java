@@ -1,4 +1,4 @@
-package fileupload;
+/*package fileupload;
 
 import java.io.File;
 import java.io.IOException;
@@ -57,3 +57,4 @@ public class Fileupload01_process extends HttpServlet {
 		
 	}
 }
+*/

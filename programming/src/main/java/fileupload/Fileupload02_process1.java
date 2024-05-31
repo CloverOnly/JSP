@@ -1,4 +1,4 @@
-package fileupload;
+/*package fileupload;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -71,3 +71,4 @@ public class Fileupload02_process1 extends HttpServlet {
 		pw.close();
 	}
 }
+*/
